@@ -15,3 +15,6 @@ cp .env.example .env   # then add your keys
 python app.py
 ```
 Required environment variables: `OPENAI_API_KEY`. Optional: `PUSHOVER_TOKEN`, `PUSHOVER_USER`.
+
+## Deploying
+This repo is the source of truth. Every push to `main` runs `.github/workflows/deploy-space.yml`, which publishes `app.py`, `requirements.txt` and `me/` to the Hugging Face Space. Edit here, not on Hugging Face (edits made on the Space are overwritten on the next deploy).
