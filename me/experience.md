@@ -5,7 +5,7 @@
 - Build relationships with limited partners, advisors, and strategic partners to expand network and strengthen support for early-stage founders.
 - Lead and align a distributed student VC team across city hubs, foster collaboration, and ensure consistent execution of investment activities.
 
-## Investment Analyst — S2S Ventures, Zurich (Jan 2026 – Present)
+## Investment Analyst — S2S Ventures, Zurich (Jan – Jul 2026)
 - Evaluate early-stage student-founded startups for investment: conduct due diligence, market analysis, competitive landscape assessment, and financial modeling to recommend first checks.
 - Analyze business models, product viability, and growth potential across AI, fintech, SaaS, healthtech, and sustainability sectors, informing decisions for a fund backed by top Swiss entrepreneurs.
 - Collaborate in agile student teams (Analysts from ETH, HSG, EPFL, UZH) on deal sourcing, ecosystem building, and fund operations, representing S2S in local startup networks.
