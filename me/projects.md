@@ -1,5 +1,10 @@
 # Featured Projects
 
+## Policy Gradient
+A tracker of AI regulation in Europe (the EU and Switzerland), the United States, China and Singapore. Every law and policy gets its own file, and every file is checked against its sources by an independent reviewer before it is published. Content is researched and reviewed by AI agents, with a person approving every change. Built with Next.js, TypeScript and Tailwind.
+- Live: https://policy-gradient.vercel.app
+- GitHub: https://github.com/vaniahalim/policy-gradient
+
 ## Passport Pixel
 Interactive travel journaling web app with retro pixel-art aesthetic. Users log and visualize trips with authentication and a personalized travel dashboard.
 - Live: https://passport-pixel.lovable.app/

@@ -1,9 +1,14 @@
 # Professional Experience
 
-## President & Partner — S2S Ventures, Switzerland (Jan 2026 – Present)
+## President & Partner — S2S Ventures, Switzerland (Aug 2026 – Present)
 - Shape nationwide investment strategy and contribute to investment committee decisions by evaluating startups and guiding due diligence.
 - Build relationships with limited partners, advisors, and strategic partners to expand network and strengthen support for early-stage founders.
 - Lead and align a distributed student VC team across city hubs, foster collaboration, and ensure consistent execution of investment activities.
+
+## Investment Analyst — S2S Ventures, Zurich (Jan 2026 – Present)
+- Evaluate early-stage student-founded startups for investment: conduct due diligence, market analysis, competitive landscape assessment, and financial modeling to recommend first checks.
+- Analyze business models, product viability, and growth potential across AI, fintech, SaaS, healthtech, and sustainability sectors, informing decisions for a fund backed by top Swiss entrepreneurs.
+- Collaborate in agile student teams (Analysts from ETH, HSG, EPFL, UZH) on deal sourcing, ecosystem building, and fund operations, representing S2S in local startup networks.
 
 ## Generative Engine Optimization (GEO) AI Consultant (Freelance) — Zurich, Switzerland (Dec 2025 – Present)
 - Develop customized GEO strategies for Zurich businesses, enhance AI search visibility, i.e. ChatGPT, Perplexity, Google AI Overviews.
@@ -14,7 +19,7 @@
 - Automated the creation of Active Directory accounts with PowerShell and other web-based accounts using Selenium.
 - Oversaw the entire project lifecycle from initial consultation with client to final User Acceptance Testing.
 
-## Chief Marketing Officer — Capital Grains CMU, USA (May – Aug 2024)
+## Chief Marketing Officer — Capital Grains CMU, USA (Aug 2023 – May 2024)
 - Spearheaded marketing initiatives for CMU's first student-run restaurant startup business.
 - Increased social media following by 300%, strengthened branding and customer loyalty.
 
@@ -33,6 +38,8 @@
 
 ## Tech Consultant and Project Manager — re:Bloom (Non-profit organization), USA (Aug 2021 – May 2022)
 - Planned, oversaw, and led the team's project to completion while maintaining close communication with clients.
+- Utilized Figma and Wix to develop a web application to increase sales for a local, women & minority-owned art business (Imprinted by Jessii).
+- Conducted market research, user testing, and weekly client meetings to implement the client's ideal digital solution over the course of 10 weeks.
 
 ## Software Engineer Intern — GovTech, Singapore (Feb – May 2021)
 - Automated the scanning of Indicators of Compromise (IP addresses, file hashes, URLs etc) in infrastructure logs using AWS Lambda, DynamoDB, and ElasticSearch to identify security threats.
